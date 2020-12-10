@@ -1,0 +1,24 @@
+{
+    "os": "Linux-4.19.0-12-cloud-amd64-x86_64-with-debian-10.6",
+    "python": "3.7.8",
+    "heartbeatAt": "2020-12-10T21:19:52.633989",
+    "startedAt": "2020-12-10T21:19:51.709554",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": "11.0.207",
+    "args": [
+        "-f",
+        "/home/jupyter/.local/share/jupyter/runtime/kernel-463331d8-5607-40d9-8451-c9638fc6cb1b.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/jared-burns/machine_learning_examples.git",
+        "commit": "3dba78b503e41a6b7b5c09cf91623b5b06eda2e5"
+    },
+    "email": null,
+    "root": "/home/jupyter/machine_learning_examples",
+    "host": "tfx-example-image-classification",
+    "username": "jupyter",
+    "executable": "/opt/conda/bin/python"
+}
